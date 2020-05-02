@@ -1,0 +1,119 @@
+
+tile.lotr:oreStorage.13.name=Block of Sulphur
+tile.lotr:oreStorage.14.name=Block of Nitre
+tile.lotr:oreSulfur.name=Sulphur Ore
+tile.lotr:oreSaltpeter.name=Nitre Ore
+tile.lotr:clayTileDyed.7.name=Grey Clay Tiling
+tile.lotr:clayTileDyed.8.name=Light Grey Clay Tiling
+tile.lotr:slabClayTileDyedSingle.7.name=Grey Clay Tiling Slab
+tile.lotr:slabClayTileDyedSingle2.0.name=Light Grey Clay Tiling Slab
+tile.lotr:stairsClayTileDyedGray.name=Grey Clay Tiling Stairs
+tile.lotr:stairsClayTileDyedLightGray.name=Light Grey Clay Tiling Stairs
+tile.lotr:wallClayTileDyed.7.name=Grey Clay Tiling Wall
+tile.lotr:wallClayTileDyed.8.name=Light Grey Clay Tiling Wall
+tile.lotr:stainedGlass.7.name=Grey Fine Glass
+tile.lotr:stainedGlass.8.name=Light Grey Fine Glass
+tile.lotr:stainedGlassPane.7.name=Grey Fine Glass Pane
+tile.lotr:stainedGlassPane.8.name=Light Grey Fine Glass Pane
+
+item.lotr:hobbitPipe.subtitle.7=Grey Smoke
+item.lotr:hobbitPipe.subtitle.8=Light Grey Smoke
+item.lotr:ancientParts.3.name=Ancient Armour Plate
+item.lotr:armorStand.name=Armour Stand
+item.lotr:sulfur.name=Sulphur
+item.lotr:saltpeter.name=Nitre
+item.lotr:sulfurMatch.name=Sulphur Match
+item.lotr:horseArmorGondor.name=Gondorian Horse Armour
+item.lotr:horseArmorRohan.name=Rohirric Horse Armour
+item.lotr:wargArmorUruk.name=Isengard Warg Armour
+item.lotr:horseArmorHighElven.name=Lindon Horse Armour
+item.lotr:horseArmorGaladhrim.name=Galadhrim Horse Armour
+item.lotr:horseArmorMorgul.name=Morgul Horse Armour
+item.lotr:horseArmorMithril.name=Mithril Horse Armour
+item.lotr:elkArmorWoodElven.name=Wood-elven Elk Armour
+item.lotr:wargArmorMordor.name=Mordor Warg Armour
+item.lotr:wargArmorAngmar.name=Angmar Warg Armour
+item.lotr:rhinoArmorHalfTroll.name=Half-troll Rhino Armour
+item.lotr:horseArmorDolAmroth.name=Dol Amroth Horse Armour
+item.lotr:horseArmorNearHarad.name=Near Harad Horse Armour
+item.lotr:boarArmorDwarven.name=Dwarven Boar Armour
+item.lotr:boarArmorBlueDwarven.name=Blue Dwarven Boar Armour
+item.lotr:horseArmorDale.name=Dalish Horse Armour
+item.lotr:horseArmorLamedon.name=Lamedon Horse Armour
+item.lotr:horseArmorRhunGold.name=Rhûnic Horse Armour
+item.lotr:horseArmorRivendell.name=Rivendell Horse Armour
+item.lotr:horseArmorUmbar.name=Umbaric Horse Armour
+
+container.lotr.armorStand=Armour Stand
+
+lotr.gui.fastTravel.travel=Fast travelling to %s
+
+lotr.achievement.wearFullMithril.desc=Equip a full suit of mithril armour
+lotr.achievement.wearFullFur.desc=Equip a full suit of fur armour
+
+lotr.achievement.wearFullBlueDwarven.desc=Equip a full suit of Blue Dwarven armour
+
+lotr.achievement.wearFullHighElven.desc=Equip a full suit of Lindon armour
+lotr.achievement.wearFullGondolin.desc=Equip a full suit of Gondolinian armour
+lotr.achievement.wearFullGalvorn.desc=Equip a full suit of Galvorn armour
+
+lotr.achievement.wearFullRanger.desc=Equip a full suit of Ranger armour
+lotr.achievement.wearFullGundabadUruk.desc=Equip a full suit of Gundabad Uruk armour
+lotr.achievement.wearFullArnor.desc=Equip a full suit of Arnorian armour
+lotr.achievement.wearFullRivendell.desc=Equip a full suit of Rivendell armour
+
+lotr.achievement.wearFullAngmar.desc=Equip a full suit of Angmar armour
+
+lotr.achievement.enterEregion.title=Faded Splendour
+
+lotr.achievement.wearFullWoodElvenScout.desc=Equip a full suit of Wood-elven Scout armour
+lotr.achievement.wearFullWoodElven.desc=Equip a full suit of Wood-elven armour
+lotr.achievement.wearFullDolGuldur.desc=Equip a full suit of Dol Guldur armour
+
+lotr.achievement.wearFullDale.desc=Equip a full suit of Dalish armour
+
+lotr.achievement.wearFullDwarven.desc=Equip a full suit of Dwarven armour
+
+lotr.achievement.wearFullElven.desc=Equip a full suit of Galadhrim armour
+
+lotr.achievement.wearFullUruk.desc=Equip a full suit of Uruk armour
+
+lotr.achievement.wearFullRohirric.desc=Equip a full suit of Rohirric armour
+lotr.achievement.wearFullRohirricMarshal.desc=Equip a full suit of Rohirric marshal armour
+
+lotr.achievement.wearFullDunlending.desc=Equip a full suit of Dunlending armour
+
+lotr.achievement.wearFullGondorian.desc=Equip a full suit of Gondorian armour
+lotr.achievement.wearFullDolAmroth.desc=Equip a full suit of Dol Amroth armour
+lotr.achievement.wearFullRangerIthilien.desc=Equip a full suit of Ithilien Ranger armour
+lotr.achievement.wearFullLossarnach.desc=Equip a full suit of Lossarnach armour
+lotr.achievement.wearFullPelargir.desc=Equip a full suit of Pelargir armour
+lotr.achievement.wearFullPinnathGelin.desc=Equip a full suit of Pinnath Gelin armour
+lotr.achievement.wearFullBlackroot.desc=Equip a full suit of Blackroot Vale armour
+lotr.achievement.wearFullLamedon.desc=Equip a full suit of Lamedon armour
+
+lotr.achievement.wearFullOrc.desc=Equip a full suit of Mordor armour
+lotr.achievement.wearFullMorgul.desc=Equip a full suit of Morgul armour
+lotr.achievement.wearFullBlackUruk.desc=Equip a full suit of Black Uruk armour
+
+lotr.achievement.wearFullDorwinion.desc=Equip a full suit of Dorwinion armour
+lotr.achievement.wearFullDorwinionElf.desc=Equip a full suit of Dorwinion Elven armour
+
+lotr.achievement.wearFullRhun.desc=Equip a full suit of Rhûnic armour
+lotr.achievement.wearFullRhunGold.desc=Equip a full suit of golden Rhûnic armour
+
+lotr.achievement.wearFullNearHarad.desc=Equip a full suit of Near Harad armour
+lotr.achievement.wearFullGulfHarad.desc=Equip a full suit of Gulfen armour
+lotr.achievement.wearFullCorsair.desc=Equip a full suit of Corsair armour
+lotr.achievement.wearFullUmbar.desc=Equip a full suit of Umbaric armour
+lotr.achievement.wearFullHarnedor.desc=Equip a full suit of Harnedor armour
+lotr.achievement.wearFullNomad.desc=Equip a full suit of Harad Nomad armour
+lotr.achievement.wearFullBlackNumenorean.desc=Equip a full suit of Black Númenórean armour
+
+lotr.achievement.wearFullMoredain.desc=Equip a full suit of Moredain armour
+
+lotr.achievement.wearFullTauredain.desc=Equip a full suit of Tauredain armour
+
+lotr.achievement.wearFullHalfTroll.desc=Equip a full suit of Half-troll armour
+
+lotr.achievement.wearFullUtumno.desc=Equip a full suit of Utumno armour

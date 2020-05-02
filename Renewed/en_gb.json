@@ -1,0 +1,9 @@
+{
+	"block.lotr.sulfur_ore": "Sulphur Ore",
+	"block.lotr.sulfur_block": "Block of Sulphur",
+	"block.lotr.niter_ore": "Nitre Ore",
+	"block.lotr.niter_block": "Block of Nitre",
+	
+	"item.lotr.sulfur": "Sulphur"
+	"item.lotr.niter": "Nitre"
+}
