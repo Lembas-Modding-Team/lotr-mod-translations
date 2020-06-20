@@ -35,7 +35,7 @@ item.lotr:wargArmorMordor.name=Mordor Warg Armour
 item.lotr:wargArmorAngmar.name=Angmar Warg Armour
 item.lotr:rhinoArmorHalfTroll.name=Half-troll Rhino Armour
 item.lotr:horseArmorDolAmroth.name=Dol Amroth Horse Armour
-item.lotr:horseArmorNearHarad.name=Near Harad Horse Armour
+item.lotr:horseArmorNearHarad.name=Coast Southron Horse Armour
 item.lotr:boarArmorDwarven.name=Dwarven Boar Armour
 item.lotr:boarArmorBlueDwarven.name=Blue Dwarven Boar Armour
 item.lotr:horseArmorDale.name=Dalish Horse Armour
@@ -113,6 +113,7 @@ lotr.achievement.wearFullBlackNumenorean.desc=Equip a full suit of Black N√∫men√
 lotr.achievement.wearFullMoredain.desc=Equip a full suit of Moredain armour
 
 lotr.achievement.wearFullTauredain.desc=Equip a full suit of Tauredain armour
+lotr.achievement.wearFullTaurethrimGold.desc=Equip a full suit of Golden Taurethrim armour
 
 lotr.achievement.wearFullHalfTroll.desc=Equip a full suit of Half-troll armour
 
