@@ -1,9 +1,26 @@
 {
-	"block.lotr.sulfur_ore": "Sulphur Ore",
-	"block.lotr.sulfur_block": "Block of Sulphur",
-	"block.lotr.niter_ore": "Nitre Ore",
-	"block.lotr.niter_block": "Block of Nitre",
-	
-	"item.lotr.sulfur": "Sulphur",
-	"item.lotr.niter": "Nitre"
+  "block.lotr.sulfur_ore": "Sulphur Ore",
+  "block.lotr.sulfur_block": "Block of Sulphur",
+  "block.lotr.niter_ore": "Nitre Ore",
+  "block.lotr.niter_block": "Block of Nitre",
+  "block.lotr.gray_clay_tiling": "Grey Clay Tiling",
+  "block.lotr.light_gray_clay_tiling": "Light Grey Clay Tiling",
+  "block.lotr.gray_clay_tiling_slab": "Grey Clay Tiling Slab",
+  "block.lotr.light_gray_clay_tiling_slab": "Light Grey Clay Tiling Slab",
+  "block.lotr.gray_clay_tiling_stairs": "Grey Clay Tiling Stairs",
+  "block.lotr.light_gray_clay_tiling_stairs": "Light Grey Clay Tiling Stairs",
+  "block.lotr.gray_clay_tiling_wall": "Grey Clay Tiling Wall",
+  "block.lotr.light_gray_clay_tiling_wall": "Light Grey Clay Tiling Wall",
+  "block.lotr.gray_fine_glass": "Grey Fine Glass",
+  "block.lotr.light_gray_fine_glass": "Light Grey Fine Glass",
+  "block.lotr.gray_fine_glass_pane": "Grey Fine Glass Pane",
+  "block.lotr.light_gray_fine_glass_pane": "Light Grey Fine Glass Pane",
+  "block.lotr.gray_wool_slab": "Grey Wool Slab",
+  "block.lotr.light_gray_wool_slab": "Light Grey Wool Slab",
+  "block.lotr.gray_wool_stairs": "Grey Wool Stairs",
+  "block.lotr.light_gray_wool_stairs": "Light Grey Wool Stairs",
+  "block.lotr.chiseled_white_sandstone": "Chiselled White Sandstone",
+  
+  "item.lotr.sulfur": "Sulphur",
+  "item.lotr.niter": "Nitre"
 }
