@@ -558,9 +558,6 @@
 	"block.lotr.cracked_numenorean_brick_slab": "Gescheurde Númenorianenblokstenen plaat",
 	"block.lotr.cracked_numenorean_brick_stairs": "Gescheurde Númenorianenblokstenen trap",
 	"block.lotr.cracked_numenorean_brick_wall": "Gescheurde Númenorianenblokstenen muur",
-<<<<<<< Updated upstream
-	
-=======
 	"block.lotr.keg": "Vat",
 	"block.lotr.morgul_shroom": "Morgulpaddenstoel",
 	"block.lotr.mossy_blue_brick": "Mossige luigonblokstenen",
@@ -1263,7 +1260,6 @@
 	"block.lotr.fur_bundle": "Bondbundel",
 	"block.lotr.leather_bundle": "Leerbundel",
 	"block.lotr.blubber_torch": "Blubberfakkel",
->>>>>>> Stashed changes
 	"item.lotr.gold_ring": "Gouden ring",
 	"item.lotr.copper_ingot": "Koperstaaf",
 	"item.lotr.tin_ingot": "Tinstaaf",
@@ -1412,9 +1408,6 @@
 	"item.lotr.uruk_berserker_cleaver": "Uruk berserker hakmes",
 	"item.lotr.uruk_berserker_helmet": "Uruk berserker helm",
 	"item.lotr.clay_plate": "Kleien bord",
-<<<<<<< Updated upstream
-	
-=======
 	"item.lotr.wooden_mug": "Houten mok",
 	"item.lotr.clay_mug": "Kleien mok",
 	"item.lotr.ceramic_mug": "Keramieken mok",
@@ -1481,7 +1474,6 @@
 	"item.lotr.drink.alcoholicity": "Alcoholpercentage: %.2f%%",
 	"item.lotr.drink.cures_harmful": "Verhelpt schadelijke bijwerkingen",
 	"item.lotr.drink.damage": "%d schade wanneer gedronken",
->>>>>>> Stashed changes
 	"itemGroup.lotr.blocks": "Midden-aarde blokken",
 	"itemGroup.lotr.util": "Midden-aarde gebruiksvoorwerpen",
 	"itemGroup.lotr.decorations": "Midden-aarde decoratie",
@@ -1504,21 +1496,6 @@
 	"container.lotr.umbar_crafting": "Umbarisch handwerk",
 	"container.lotr.uruk_crafting": "Uruk handwerk",
 	"container.lotr.hobbit_crafting": "Hobbit handwerk",
-<<<<<<< Updated upstream
-	
-	"container.lotr.alloy_forge": "Legeringsmeltoven",
-	"container.lotr.dwarven_forge": "Dwergensmeltoven",
-	"container.lotr.elven_forge": "Elfensmeltoven",
-	"container.lotr.orc_forge": "Orksmeltoven",
-	"container.lotr.hobbit_oven": "Hobbitoven",
-	
-	"biome.lotr.shire": "De Gouw",
-	"biome.lotr.mordor": "Mordor",
-	"biome.lotr.gondor": "Gondor",
-	"biome.lotr.rohan": "Rohan",
-	"biome.lotr.misty_mountains": "Nevelbergen",
-	"biome.lotr.shire_woodlands": "Gouw bosland",
-=======
 	"container.lotr.blue_mountains_crafting": "Blauwe Dwergen handwerk",
 	"container.lotr.ranger_crafting": "Wachter handwerk",
 	"container.lotr.dol_amroth_crafting": "Dol Amroth handwerk",
@@ -1545,7 +1522,6 @@
 	"biome.lotr.misty_mountains": "Nevelbergen",
 	"biome.lotr.shire_woodlands": "Gouw bosland",
 	"biome.lotr.river": "Rivier",
->>>>>>> Stashed changes
 	"biome.lotr.trollshaws": "Trollenheuvels",
 	"biome.lotr.blue_mountains": "Blauwe Bergen",
 	"biome.lotr.eriador": "Eriador",
@@ -1560,17 +1536,6 @@
 	"biome.lotr.southron_coasts": "Zuiderlijke Kusten",
 	"biome.lotr.nan_curunir": "Nan Curunír",
 	"biome.lotr.forodwaith": "Forodwaith",
-<<<<<<< Updated upstream
-	
-	"stat.lotr.interact_faction_crafting_table": "Interacties met Factiewerkbanken",
-	"stat.lotr.throw_ring_in_fire": "Ringen in het Vuur Gegooid",
-	"stat.lotr.interact_alloy_forge": "Interacties met Legeringsmeltovens",
-	"stat.lotr.interact_dwarven_forge": "Interacties met dwergensmeltovens",
-	"stat.lotr.interact_elven_forge": "Interacties met elfensmeltovens",
-	"stat.lotr.interact_orc_forge": "Interacties met orksmeltovens",
-	"stat.lotr.interact_hobbit_oven": "Interacties met hobbitovens",
-	
-=======
 	"biome.lotr.eregion": "Eregion",
 	"biome.lotr.mirkwood": "Demsterwold",
 	"biome.lotr.grey_mountains": "Grijze Bergen",
@@ -2294,16 +2259,10 @@
 	"chat.lotr.ft.ticks": "Snel reizen in %d...",
 	"chat.lotr.ft.motion": "Snel reizen gestopt, beweeg je niet!",
 	"chat.lotr.ft.offlineTick": "sinds je pas laatst online bent geweest (%s geleden), is je snel reizen klok doorgespoeld met %s",
->>>>>>> Stashed changes
 	"death.attack.lotr.plant": "%s werd vermoord door een plant",
 	"death.attack.lotr.frost": "%s bezweek aan de kou",
 	"death.attack.lotr.poisonDrink": "%s keek te diep in het verkeerde glas",
 	"death.attack.lotr.stalagmite": "%s werd gespietst door een stalagmiet",
-<<<<<<< Updated upstream
-	
-	"chat.lotr.res_pack_warning": "%s: Waarschuwing: Je mod hulpbronnen hebben een lagere prioriteit dan de standaard hulpbronnen. Dit zorgt er voor dat sommige functies van de mod, zoals verticale platen, niet meer werken. Om dit op te lossen, ga je naar Instellingen -> Bronpakketten en zet je 'Mod Resources' boven 'Default'."
-}
-=======
 	"death.attack.lotr.quagmire": "%s kwam vast te zitten in een moeras",
 	"subtitles.lotr.ambience.weather.wind": "Wind fluit",
 	"subtitles.lotr.block.gate.close": "Poort gesloten",
@@ -2362,4 +2321,3 @@
 	"config.lotr.areasOfInfluence": "Factie gebied van Invloed",
 	"config.lotr.forceMapLocations": "Forceer verberg/toon map locaties"
 }
->>>>>>> Stashed changes
