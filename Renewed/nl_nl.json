@@ -2524,7 +2524,7 @@
 	"commands.lotr.alignment.add.all.single": "NEW >>> Added %2$s to all of %1$s's alignments",
 	"commands.lotr.alignment.add.all.multiple": "NEW >>> Added %2$s to all of %1$d players' alignments",
 	"commands.lotr.alignment.add.tooHigh": "NEW >>> Cannot set %s's %s alignment higher than %f",
-	"commands.lotr.alignment.add.tooLow": "NEW >>> Cannot set %s's %s alignment higher than %f",
+	"commands.lotr.alignment.add.tooLow": "NEW >>> Cannot set %s's %s alignment lower than %f",
 	"commands.lotr.message.preset.single": "NEW >>> Displayed message type %2$s to %1$s",
 	"commands.lotr.message.preset.multiple": "NEW >>> Displayed message type %2$s to %1$s players",
 	"commands.lotr.message.custom.single": "NEW >>> Displayed custom message '%2$s' to %1$s",
