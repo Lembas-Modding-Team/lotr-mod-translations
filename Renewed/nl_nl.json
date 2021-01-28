@@ -1707,7 +1707,7 @@
 	"gui.lotr.factions.viewMap": "Bekijk de gebieden van invloed",
 	"gui.lotr.factions.pledge": "Beloof dienst",
 	"gui.lotr.factions.pledge.req": "(Heeft %s afstemming nodig)",
-	"gui.lotr.factions.pledge.desc.1": "Je diesnt beloven aan %s gaat je vriendschap geven en vele extra's, waaronder de toegankelijkheid naar gebieden veroveren.",
+	"gui.lotr.factions.pledge.desc.1": "Je dienst beloven aan %s gaat je vriendschap opbrengen en vele extra's, waaronder de mogelijkheid om gebieden veroveren.",
 	"gui.lotr.factions.pledge.desc.2": "Als je deze belofte maakt, mag je hem altijd breken - maar als je dit doet krijg je een grote straf.",
 	"gui.lotr.factions.pledged": "In plicht!",
 	"gui.lotr.factions.pledge.breakCooldown": "Je kan niet in dienst gaan bij %1$s, omdat de wereld je verbroken plicht aan %2$s nog niet vergeten is.",
