@@ -1718,7 +1718,7 @@
 	"gui.lotr.factions.pledge.enemies.3+": "%s, %s, %s, en %d meer...",
 	"gui.lotr.factions.unpledge": "Belofte verbreken",
 	"gui.lotr.factions.unpledge.desc.1": "Weet je zeker dat je je plicht aan %s wilt verbreken?",
-	"gui.lotr.factions.unpledge.desc.2": "Je gaat een grote straf tegeomet, en je kan voor een tijd geen nieuwe plicht aannemen.",
+	"gui.lotr.factions.unpledge.desc.2": "Je gaat een grote straf tegemoet, en je kan voor een tijd geen nieuwe plicht aannemen.",
 	"gui.lotr.factions.pledgeLocked": "Je kan niet boven %1$s aanhang krijgen omdat je in plicht bent bij %2$s",
 	"gui.lotr.factions.civilianKills.yes": "Deze factie verheerlijkt oorlogsmisdaden (het vermoorden van onschuldige vijandelijke burgers)",
 	"gui.lotr.factions.civilianKills.no": "Deze factie haat oorlogsmisdaden (het vermoorden van onschuldige vijandelijke burgers)",
