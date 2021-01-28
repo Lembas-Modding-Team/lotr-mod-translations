@@ -2517,7 +2517,7 @@
 	"commands.lotr.lotr_date.display.multiple": "Toont de huidige datum %d aan spelers",
 	"commands.lotr.alignment.set.single": "%s's %s aanhang gezet naar %s",
 	"commands.lotr.alignment.set.multiple": "%d spelers hun %s aanhang gezet naar %s",
-	"commands.lotr.alignment.set.all.single": "Alle %s's aanhang is gezet naar %s",
+	"commands.lotr.alignment.set.all.single": "Al %s's aanhang gezet naar %s",
 	"commands.lotr.alignment.set.all.multiple": "Alle %d spelers hun aanhang gezet naar %s",
 	"commands.lotr.alignment.add.single": "%3$s toegvoegd aan %1$s's %2$s aanhang",
 	"commands.lotr.alignment.add.multiple": "%3$s toegevoegd aan %1$d spelers hun %2$s aanhang",
