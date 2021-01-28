@@ -1711,7 +1711,7 @@
 	"gui.lotr.factions.pledge.desc.2": "Als je deze belofte maakt, mag je hem altijd breken - maar als je dit doet krijg je een grote straf.",
 	"gui.lotr.factions.pledged": "In plicht!",
 	"gui.lotr.factions.pledge.breakCooldown": "Je kan niet in dienst gaan bij %1$s, omdat de wereld je verbroken plicht aan %2$s nog niet vergeten is.",
-	"gui.lotr.factions.pledge.enemies": "Je kan niet in diesnt gaan bij %s omdat je goede relaties hebt met hun aartsvijanden. (%s)",
+	"gui.lotr.factions.pledge.enemies": "Je kan niet in dienst gaan bij %s omdat je goede relaties hebt met hun aartsvijanden. (%s)",
 	"gui.lotr.factions.pledge.enemies.1": "%s",
 	"gui.lotr.factions.pledge.enemies.2": "%s, %s",
 	"gui.lotr.factions.pledge.enemies.3": "%s, %s, %s",
