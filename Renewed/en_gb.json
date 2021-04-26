@@ -22,5 +22,7 @@
   "block.lotr.chiseled_white_sandstone": "Chiselled White Sandstone",
   
   "item.lotr.sulfur": "Sulphur",
-  "item.lotr.niter": "Nitre"
+  "item.lotr.niter": "Nitre",
+  "item.lotr.smoking_pipe.gray": "Grey Smoke",
+  "item.lotr.smoking_pipe.light_gray": "Light Grey Smoke"
 }

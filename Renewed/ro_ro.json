@@ -1,6 +1,6 @@
 {
     "lotr.menu.title": "Modul Stăpânul Inelelor: Pământul de Mijloc în Minecraft - Reînnoit",
-    "lotr.menu.subtitle": "Un update în lucru pentru Minecraft 1.15",
+    "lotr.menu.subtitle": "Un update în lucru pentru Minecraft 1.16",
     
 	"block.lotr.gondor_rock": "Piatră din Gondor",
 	"block.lotr.gondor_brick": "Cărămizi din Gondor",
@@ -498,7 +498,7 @@
     "block.lotr.larch_pressure_plate": "Placă de Presiune de Larice",
     "block.lotr.larch_button": "Buton de Larice",
     "block.lotr.stripped_larch_log": "Buștean Decojit de Larice",
-    "block.lotr.stripped_larch_wood": "Lemn Decojit de Larice",s
+    "block.lotr.stripped_larch_wood": "Lemn Decojit de Larice",
     "block.lotr.larch_beam": "Grindă de Larice",
     "block.lotr.larch_sign": "Semn de Larice",
     "block.lotr.hobbit_oven": "Cuptor al Hobbiților",

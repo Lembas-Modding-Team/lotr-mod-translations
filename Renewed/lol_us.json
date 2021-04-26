@@ -1,6 +1,6 @@
 {
     "lotr.menu.title": "Teh Lurd ov te Rings Mod: Bringin Meddle-erth 2 Myncraft - renewd",
-    "lotr.menu.subtitle": "A werk-in-progres updat to Minecraft 1.15!1!!1",
+    "lotr.menu.subtitle": "A werk-in-progres updat to Minecraft 1.16!1!!1",
     
 	"block.lotr.gondor_rock": "Gundur Rock",
 	"block.lotr.gondor_brick": "Gundur Brickz",
@@ -443,7 +443,7 @@
     "block.lotr.edhelvir_crystal": "Edehiemir Crystls",
     "block.lotr.gulduril_crystal": "Guldurel Crystls",
     "block.lotr.glowstone_crystal": "Glowstone Crystls",
-    "block.lotr.numenorean_brick": "Ded Doods Bric",-----------------------------------------------------------------
+    "block.lotr.numenorean_brick": "Ded Doods Bric",
     "block.lotr.numenorean_brick_slab": "Ded Doods Bric Slab",
     "block.lotr.numenorean_brick_stairs": "Ded Doods Bric Stairs",
     "block.lotr.numenorean_brick_wall": "Ded Doods Bric Wal",
@@ -627,7 +627,7 @@
     "item.lotr.umbar_helmet": "Umbarec Helmet",
     "item.lotr.umbar_chestplate": "Umbarec Shirt",
     "item.lotr.umbar_leggings": "Umbarec Pants",
-    "item.lotr.umbar_boots": "Umbarec Bootz,
+    "item.lotr.umbar_boots": "Umbarec Bootz",
     "item.lotr.maple_syrup": "Sweet Brown Lequid",
     "item.lotr.beeswax": "Yelow Birb Wax",
     "item.lotr.pipeweed_seeds": "Pipewied Seeds",
